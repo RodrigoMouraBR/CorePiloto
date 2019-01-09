@@ -1,0 +1,9 @@
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/bin/Debug/netstandard2.0/Cedro.Domain.Core.deps.json
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/bin/Debug/netstandard2.0/Cedro.Domain.Core.dll
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/bin/Debug/netstandard2.0/Cedro.Domain.Core.pdb
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/obj/Debug/netstandard2.0/Cedro.Domain.Core.csprojAssemblyReference.cache
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/obj/Debug/netstandard2.0/Cedro.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/obj/Debug/netstandard2.0/Cedro.Domain.Core.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/obj/Debug/netstandard2.0/Cedro.Domain.Core.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/obj/Debug/netstandard2.0/Cedro.Domain.Core.dll
+/Users/rodrigomoura/Documents/Cedro/3-Domain/Cedro.Domain.Core/obj/Debug/netstandard2.0/Cedro.Domain.Core.pdb

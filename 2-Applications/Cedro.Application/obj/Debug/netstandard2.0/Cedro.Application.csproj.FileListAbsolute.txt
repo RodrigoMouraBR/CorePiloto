@@ -1,0 +1,17 @@
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Application.deps.json
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Application.dll
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Application.pdb
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Domain.Core.dll
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Domain.dll
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Domain.pdb
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Domain.Core.pdb
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/obj/Debug/netstandard2.0/Cedro.Application.csprojAssemblyReference.cache
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/obj/Debug/netstandard2.0/Cedro.Application.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/obj/Debug/netstandard2.0/Cedro.Application.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/obj/Debug/netstandard2.0/Cedro.Application.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/obj/Debug/netstandard2.0/Cedro.Application.csproj.CopyComplete
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/obj/Debug/netstandard2.0/Cedro.Application.dll
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/obj/Debug/netstandard2.0/Cedro.Application.pdb
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/appsettings.json
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Data.dll
+/Users/rodrigomoura/Documents/Cedro/2-Applications/Cedro.Application/bin/Debug/netstandard2.0/Cedro.Data.pdb
